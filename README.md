@@ -20,5 +20,5 @@ npm rum dev
 ```
 #### 4.1 en produccion
 ```bash 
-npm rum star
+npm rum start
 ```
