@@ -20,7 +20,7 @@ cp .env.sample .env
 ```bash 
 npm run dev 
 ```
-#### 4.1 en produccion
+#### 4.2 en produccion
 ```bash 
 npm run start
 ```
