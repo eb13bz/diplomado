@@ -5,7 +5,7 @@
 ```bash
 
 git clone https://github.com/eb13bz/diplomado.git
-
+```
 ### 2. instalar dependencias
 ```bash
 npm install 
