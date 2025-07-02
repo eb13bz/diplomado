@@ -1,0 +1,24 @@
+# proyecto diplomado
+
+### 1. clonar el proyecto
+
+git clone https://github.com/eb13bz/diplomado.git
+
+### 2. instalar dependencias
+```bash
+npm install 
+```
+
+### 3. copiar variables de enterono y configurar 
+```bash
+cp . env .sample .env 
+```
+### 4. levantar el poyecto
+#### 4.1 en desarrollo
+```bash 
+npm rum dev 
+```
+#### 4.1 en produccion
+```bash 
+npm rum star
+```
